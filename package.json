@@ -1,8 +1,13 @@
 {
 	"name": "bitstamp-request",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": "Jonah Stiennon <jonahss@gmail.com>",
 	"description": "Send requests to Bitstamp API the same way you use Mikeal's 'request' module",
+	"keywords": [
+    	"trading",
+    	"bitstamp",
+    	"bitcoin"
+  	],
 	"main": "index.js",
 	"repository" : {
 		"type": "git",
