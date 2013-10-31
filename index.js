@@ -1,8 +1,9 @@
-var request = require('request');
-var crypto = require('crypto');
-var Q = require('q');
-var through = require('through');
-var underscore = require('underscore');
+var  request 	= require('request')
+    ,crypto 	= require('crypto')
+    ,Q 			= require('q')
+    ,through 	= require('through')
+    ,underscore = require('underscore')
+    ;
 
 module.exports = BitstampRequest = function(client_id, api_key, api_secret){
 	this.client_id = client_id;
