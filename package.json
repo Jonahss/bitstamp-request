@@ -1,0 +1,15 @@
+{
+	"name": "bitstamp-request",
+	"version": "0.1.0",
+	"author": "Jonah Stiennon <jonahss@gmail.com>",
+	"description": "Send requests to Bitstamp API the same way you use Mikeal's 'request' module",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jonahss/bitstamp-request.git"
+	},
+	"license" : "MIT",
+	"engines" : {
+		"node": ">=0.10.15"
+	}
+}
