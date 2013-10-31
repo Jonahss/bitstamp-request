@@ -1,6 +1,6 @@
 {
 	"name": "bitstamp-request",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "Jonah Stiennon <jonahss@gmail.com>",
 	"description": "Send requests to Bitstamp API the same way you use Mikeal's 'request' module",
 	"main": "index.js",
